@@ -1,4 +1,4 @@
-from main import project
+import main
 
 if __name__ == "__main__":
-    project.run(debug = True)
+    main.project.run(debug = True)
